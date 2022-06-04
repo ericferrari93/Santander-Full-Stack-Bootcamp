@@ -5,5 +5,5 @@
   - CSS
   - JavaScript
   - Angular
-  - Java
-  - Spring
+  - JAVA
+  - Spring Framework
