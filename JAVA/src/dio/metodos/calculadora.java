@@ -1,4 +1,4 @@
-package dio;
+package dio.metodos;
 
 import java.util.Scanner;
 
@@ -13,14 +13,14 @@ public class calculadora {
         a = scan.nextDouble();
         System.out.println("Digite um numero: ");
         b = scan.nextDouble();
-        double divisao = divisao(a, b);
-        double somar = somar(a, b);
-        double subtracao = subtracao(a, b);
-        double multiplicacao = multiplicacao(a, b);
-        System.out.println("A divisao dos dois valores e " + divisao);
-        System.out.println("A soma dos dois valores e " + somar);
-        System.out.println("A subtracao dos dois valores e " + subtracao);
-        System.out.println("A multiplicacao dos dois valores e " + multiplicacao);
+        //double divisao = divisao(a, b);
+//        double somar = somar(a, b);
+//        double subtracao = subtracao(a, b);
+//        double multiplicacao = multiplicacao(a, b);
+        System.out.println("A divisao dos dois valores e " + divisao(a, b));
+        System.out.println("A soma dos dois valores e " + somar(a, b));
+        System.out.println("A subtracao dos dois valores e " + subtracao(a, b));
+        System.out.println("A multiplicacao dos dois valores e " + multiplicacao(a, b));
     }
 
     public static double divisao(double a, double b) {
