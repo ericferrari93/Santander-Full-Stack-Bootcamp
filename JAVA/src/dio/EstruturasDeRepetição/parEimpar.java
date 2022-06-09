@@ -2,6 +2,12 @@ package dio.EstruturasDeRepetição;
 
 import java.util.Scanner;
 
+/*
+Faça um programa que peça N números inteiros,
+calcule e mostre a quantidade de números pares
+e a quantidade de números impares.
+*/
+
 public class parEimpar {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
