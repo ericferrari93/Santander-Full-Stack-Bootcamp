@@ -1,9 +1,9 @@
-# Santander-Full-Stack-Bootcamp
+# Impulso-Full-Stack-Bootcamp
 
 ## Repositório com arquivos:
   - HTML
   - CSS
   - JavaScript
-  - Angular
-  - JAVA
-  - Spring Framework
+  - React Native
+  - Node.Js
+
