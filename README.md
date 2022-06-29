@@ -4,6 +4,7 @@
   - HTML
   - CSS
   - JavaScript
-  - React Native
-  - Node.Js
+  - Angular
+  - Java
+  - Spring Framework
 
