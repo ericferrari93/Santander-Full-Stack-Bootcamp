@@ -1,4 +1,4 @@
-# Impulso-Full-Stack-Bootcamp
+# Santander-Full-Stack-Bootcamp
 
 ## Repositório com arquivos:
   - HTML
